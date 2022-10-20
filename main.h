@@ -117,4 +117,3 @@
  int _printf(const char *format, ...); 
   
  #endif 
- /*the end of prototypes of functions used*/
